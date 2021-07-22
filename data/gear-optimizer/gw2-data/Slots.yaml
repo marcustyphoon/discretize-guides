@@ -1,0 +1,357 @@
+Slots:
+
+  Dual wield:
+
+    - name: Helm
+      short: Helm
+      item:
+        triple:
+          major: 63
+          minor: 45
+        quadruple:
+          major: 54
+          minor: 30
+        celestial:
+          major: 30
+          minor: 30
+
+    - name: Shoulders
+      short: Shld
+      item:
+        triple:
+          major: 47
+          minor: 34
+        quadruple:
+          major: 40
+          minor: 22
+        celestial:
+          major: 22
+          minor: 22
+
+    - name: Coat
+      short: Coat
+      item:
+        triple:
+          major: 141
+          minor: 101
+        quadruple:
+          major: 121
+          minor: 67
+        celestial:
+          major: 67
+          minor: 67
+
+    - name: Gloves
+      short: Glov
+      item:
+        triple:
+          major: 47
+          minor: 34
+        quadruple:
+          major: 40
+          minor: 22
+        celestial:
+          major: 22
+          minor: 22
+
+    - name: Leggings
+      short: Legs
+      item:
+        triple:
+          major: 94
+          minor: 67
+        quadruple:
+          major: 81
+          minor: 44
+        celestial:
+          major: 44
+          minor: 44
+
+    - name: Boots
+      short: Boot
+      item:
+        triple:
+          major: 47
+          minor: 34
+        quadruple:
+          major: 40
+          minor: 22
+        celestial:
+          major: 22
+          minor: 22
+
+    - name: Amulet
+      short: Amul
+      item:
+        triple:
+          major: 157
+          minor: 108
+        quadruple:
+          major: 133
+          minor: 71
+        celestial:
+          major: 72
+          minor: 72
+
+    - name: Ring 1
+      short: Rng1
+      item:
+        triple:
+          major: 126
+          minor: 85
+        quadruple:
+          major: 106
+          minor: 56
+        celestial:
+          major: 57
+          minor: 57
+
+    - name: Ring 2
+      short: Rng2
+      item:
+        triple:
+          major: 126
+          minor: 85
+        quadruple:
+          major: 106
+          minor: 56
+        celestial:
+          major: 57
+          minor: 57
+
+    - name: Accessory 1
+      short: Acc1
+      item:
+        triple:
+          major: 110
+          minor: 74
+        quadruple:
+          major: 92
+          minor: 49
+        celestial:
+          major: 50
+          minor: 50
+
+    - name: Accessory 2
+      short: Acc2
+      item:
+        triple:
+          major: 110
+          minor: 74
+        quadruple:
+          major: 92
+          minor: 49
+        celestial:
+          major: 50
+          minor: 50
+
+    - name: Back Item
+      short: Back
+      item:
+        triple:
+          major: 63
+          minor: 40
+        quadruple:
+          major: 52
+          minor: 27
+        celestial:
+          major: 28
+          minor: 28
+
+    - name: Mainhand
+      short: Wep1
+      item:
+        triple:
+          major: 125
+          minor: 90
+        quadruple:
+          major: 108
+          minor: 59
+        celestial:
+          major: 59
+          minor: 59
+
+    - name: Offhand
+      short: Wep2
+      item:
+        triple:
+          major: 125
+          minor: 90
+        quadruple:
+          major: 108
+          minor: 59
+        celestial:
+          major: 59
+          minor: 59
+
+  Two-handed:
+
+    - name: Helm
+      short: Helm
+      item:
+        triple:
+          major: 63
+          minor: 45
+        quadruple:
+          major: 54
+          minor: 30
+        celestial:
+          major: 30
+          minor: 30
+
+    - name: Shoulders
+      short: Shld
+      item:
+        triple:
+          major: 47
+          minor: 34
+        quadruple:
+          major: 40
+          minor: 22
+        celestial:
+          major: 22
+          minor: 22
+
+    - name: Coat
+      short: Coat
+      item:
+        triple:
+          major: 141
+          minor: 101
+        quadruple:
+          major: 121
+          minor: 67
+        celestial:
+          major: 67
+          minor: 67
+
+    - name: Gloves
+      short: Glov
+      item:
+        triple:
+          major: 47
+          minor: 34
+        quadruple:
+          major: 40
+          minor: 22
+        celestial:
+          major: 22
+          minor: 22
+
+    - name: Leggings
+      short: Legs
+      item:
+        triple:
+          major: 94
+          minor: 67
+        quadruple:
+          major: 81
+          minor: 44
+        celestial:
+          major: 44
+          minor: 44
+
+    - name: Boots
+      short: Boot
+      item:
+        triple:
+          major: 47
+          minor: 34
+        quadruple:
+          major: 40
+          minor: 22
+        celestial:
+          major: 22
+          minor: 22
+
+    - name: Amulet
+      short: Amul
+      item:
+        triple:
+          major: 157
+          minor: 108
+        quadruple:
+          major: 133
+          minor: 71
+        celestial:
+          major: 72
+          minor: 72
+
+    - name: Ring 1
+      short: Rng1
+      item:
+        triple:
+          major: 126
+          minor: 85
+        quadruple:
+          major: 106
+          minor: 56
+        celestial:
+          major: 57
+          minor: 57
+
+    - name: Ring 2
+      short: Rng2
+      item:
+        triple:
+          major: 126
+          minor: 85
+        quadruple:
+          major: 106
+          minor: 56
+        celestial:
+          major: 57
+          minor: 57
+
+    - name: Accessory 1
+      short: Acc1
+      item:
+        triple:
+          major: 110
+          minor: 74
+        quadruple:
+          major: 92
+          minor: 49
+        celestial:
+          major: 50
+          minor: 50
+
+    - name: Accessory 2
+      short: Acc2
+      item:
+        triple:
+          major: 110
+          minor: 74
+        quadruple:
+          major: 92
+          minor: 49
+        celestial:
+          major: 50
+          minor: 50
+
+    - name: Back Item
+      short: Back
+      item:
+        triple:
+          major: 63
+          minor: 40
+        quadruple:
+          major: 52
+          minor: 27
+        celestial:
+          major: 28
+          minor: 28
+
+    - name: Weapon
+      short: Weap
+      item:
+        triple:
+          major: 251
+          minor: 179
+        quadruple:
+          major: 215
+          minor: 118
+        celestial:
+          major: 118
+          minor: 118
+

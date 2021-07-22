@@ -1,0 +1,21 @@
+Condition:
+
+  Burning:
+    baseDamage: 131
+    factor: 0.155
+
+  Bleeding:
+    baseDamage: 22
+    factor: 0.06
+
+  Poison:
+    baseDamage: 33.5
+    factor: 0.06
+
+  Torment:
+    baseDamage: 31.8
+    factor: 0.09
+
+  Confusion:
+    baseDamage: 22
+    factor: 0.06

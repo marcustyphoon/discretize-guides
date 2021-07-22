@@ -1,0 +1,77 @@
+Attributes:
+
+  PRIMARY:
+  - Power
+  - Precision
+  - Toughness
+  - Vitality
+
+  SECONDARY:
+  - Ferocity
+  - Condition Damage
+  - Expertise
+  - Concentration
+  - Healing Power
+  - Agony Resistance
+
+  DERIVED:
+  - Critical Chance
+  - Critical Damage
+  - Condition Duration
+  - Boon Duration
+  - Health
+  - Armor
+
+  BOON_DURATION:
+  - Aegis Duration
+  - Fury Duration
+  - Might Duration
+  - Protection Duration
+  - Quickness Duration
+  - Regeneration Duration
+  - Resistance Duration
+  - Resolution Duration
+  - Retaliation Duration
+  - Stability Duration
+  - Swiftness Duration
+  - Vigor Duration
+
+  CONDITION_DURATION:
+  - Bleeding Duration
+  - Blind Duration
+  - Burning Duration
+  - Chilled Duration
+  - Confusion Duration
+  - Crippled Duration
+  - Fear Duration
+  - Immobile Duration
+  - Poison Duration
+  - Slow Duration
+  - Taunt Duration
+  - Torment Duration
+  - Vulnerability Duration
+  - Weakness Duration
+
+  CONDITION:
+  - Burning
+  - Bleeding
+  - Poison
+  - Torment
+  - Confusion
+
+  CONDITION_DAMAGE:
+  - Burning Damage
+  - Bleeding Damage
+  - Poison Damage
+  - Torment Damage
+  - Confusion Damage
+
+  EFFECTIVE:
+  - Effective Power
+  - Effective Health
+  - Effective Healing
+
+  INDICATORS:
+  - Damage
+  - Survivability
+  - Healing

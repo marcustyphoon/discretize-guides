@@ -1,0 +1,37 @@
+Classes:
+
+  warrior:
+    health: 9212
+    defense: 1271
+
+  necromancer:
+    health: 9212
+    defense: 967
+
+  revenant:
+    health: 5922
+    defense: 1271
+
+  engineer:
+    health: 5922
+    defense: 1118
+
+  ranger:
+    health: 5922
+    defense: 1118
+
+  mesmer:
+    health: 5922
+    defense: 967
+
+  guardian:
+    health: 1645
+    defense: 1271
+
+  thief:
+    health: 1645
+    defense: 1118
+
+  elementalist:
+    health: 1645
+    defense: 967

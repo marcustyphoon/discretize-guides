@@ -1,0 +1,353 @@
+Affix:
+
+  Berserker:
+    type: triple
+    bonuses:
+      major:
+      - Power
+      minor:
+      - Precision
+      - Ferocity
+
+  Assassin:
+    type: triple
+    bonuses:
+      major:
+      - Precision
+      minor:
+      - Power
+      - Ferocity
+
+  Harrier:
+    type: triple
+    bonuses:
+      major:
+      - Power
+      minor:
+      - Concentration
+      - Healing Power
+
+  Commander:
+    type: quadruple
+    bonuses:
+      major:
+      - Power
+      - Precision
+      minor:
+      - Toughness
+      - Concentration
+
+  Minstrel:
+    type: quadruple
+    bonuses:
+      major:
+      - Toughness
+      - Healing Power
+      minor:
+      - Vitality
+      - Concentration
+
+  Magi:
+    type: triple
+    bonuses:
+      major:
+      - Healing Power
+      minor:
+      - Vitality
+      - Precision
+
+  Marauder:
+    type: quadruple
+    bonuses:
+      major:
+      - Power
+      - Precision
+      minor:
+      - Vitality
+      - Ferocity
+
+  Cleric:
+    type: triple
+    bonuses:
+      major:
+      - Healing Power
+      minor:
+      - Power
+      - Toughness
+
+  Nomad:
+    type: triple
+    bonuses:
+      major:
+      - Toughness
+      minor:
+      - Vitality
+      - Healing Power
+
+  Zealot:
+    type: triple
+    bonuses:
+      major:
+      - Power
+      minor:
+      - Precision
+      - Healing Power
+
+  Viper:
+    type: quadruple
+    bonuses:
+      major:
+      - Power
+      - Condition Damage
+      minor:
+      - Precision
+      - Expertise
+
+  Sinister:
+    type: triple
+    bonuses:
+      major:
+      - Condition Damage
+      minor:
+      - Power
+      - Precision
+
+  Grieving:
+    type: quadruple
+    bonuses:
+      major:
+      - Power
+      - Condition Damage
+      minor:
+      - Precision
+      - Ferocity
+
+  Seraph:
+    type: quadruple
+    bonuses:
+      major:
+      - Precision
+      - Condition Damage
+      minor:
+      - Healing Power
+      - Concentration
+
+  Marshal:
+    type: quadruple
+    bonuses:
+      major:
+      - Power
+      - Healing Power
+      minor:
+      - Precision
+      - Condition Damage
+
+  Giver:
+    type: triple
+    bonuses:
+      major:
+      - Toughness
+      minor:
+      - Healing Power
+      - Concentration
+
+  Knight:
+    type: triple
+    bonuses:
+      major:
+      - Toughness
+      minor:
+      - Power
+      - Precision
+
+  Trailblazer:
+    type: quadruple
+    bonuses:
+      major:
+      - Toughness
+      - Condition Damage
+      minor:
+      - Vitality
+      - Expertise
+
+  Plaguedoctor:
+    type: quadruple
+    bonuses:
+      major:
+      - Vitality
+      - Condition Damage
+      minor:
+      - Healing Power
+      - Concentration
+
+  Carrion:
+    type: triple
+    bonuses:
+      major:
+      - Condition Damage
+      minor:
+      - Power
+      - Vitality
+
+  Rabid:
+    type: triple
+    bonuses:
+      major:
+      - Condition Damage
+      minor:
+      - Toughness
+      - Precision
+
+  Dire:
+    type: triple
+    bonuses:
+      major:
+      - Condition Damage
+      minor:
+      - Toughness
+      - Vitality
+
+  Vigilant:
+    type: quadruple
+    bonuses:
+      major:
+      - Power
+      - Toughness
+      minor:
+      - Concentration
+      - Expertise
+
+  Valkyrie:
+    type: triple
+    bonuses:
+      major:
+      - Power
+      minor:
+      - Vitality
+      - Ferocity
+
+  Cavalier:
+    type: triple
+    bonuses:
+      major:
+      - Toughness
+      minor:
+      - Power
+      - Ferocity
+
+  Berserker+Valkyrie:
+    type: bervalk
+    bonuses:
+      major:
+      - Power
+      minor:
+      - Vitality
+      - Ferocity
+
+  Celestial:
+    type: celestial
+    bonuses:
+      major:
+      - Power
+      - Precision
+      - Toughness
+      - Vitality
+      minor:
+      - Ferocity
+      - Condition Damage
+      - Expertise
+      - Concentration
+      - Healing Power
+
+  Diviner:
+    type: quadruple
+    bonuses:
+      major:
+      - Power
+      - Concentration
+      minor:
+      - Precision
+      - Ferocity
+
+  Soldier:
+    type: triple
+    bonuses:
+      major:
+      - Power
+      minor:
+      - Toughness
+      - Vitality
+
+  Sentinel:
+    type: triple
+    bonuses:
+      major:
+      - Vitality
+      minor:
+      - Power
+      - Toughness
+
+  Wanderer:
+    type: quadruple
+    bonuses:
+      major:
+      - Power
+      - Vitality
+      minor:
+      - Toughness
+      - Concentration
+
+  Apothecary:
+    type: triple
+    bonuses:
+      major:
+      - Healing Power
+      minor:
+      - Condition Damage
+      - Toughness
+
+  Shaman:
+    type: triple
+    bonuses:
+      major:
+      - Vitality
+      minor:
+      - Condition Damage
+      - Healing Power
+
+  Crusader:
+    type: quadruple
+    bonuses:
+      major:
+      - Power
+      - Toughness
+      minor:
+      - Ferocity
+      - Healing Power
+
+  Rampager:
+    type: triple
+    bonuses:
+      major:
+      - Precision
+      minor:
+      - Condition Damage
+      - Power
+
+  Settler:
+    type: triple
+    bonuses:
+      major:
+      - Toughness
+      minor:
+      - Condition Damage
+      - Healing Power
+
+  Bringer:
+    type: triple
+    bonuses:
+      major:
+      - Expertise
+      minor:
+      - Precision
+      - Vitality
